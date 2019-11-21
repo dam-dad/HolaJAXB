@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agenda>
+    <contactos apellidos="Norris" nombre="Chuck">
+        <telefonos>
+            <numero>922000001</numero>
+        </telefonos>
+        <telefonos>
+            <numero>922000002</numero>
+        </telefonos>
+    </contactos>
+    <contactos apellidos="Stallone" nombre="Sylvester">
+        <telefonos>
+            <numero>666000001</numero>
+        </telefonos>
+        <telefonos>
+            <numero>666000002</numero>
+        </telefonos>
+        <telefonos>
+            <numero>666000003</numero>
+        </telefonos>
+    </contactos>
+</agenda>

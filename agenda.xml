@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <agenda>
-    <contactos apellidos="Norris" nombre="Chuck">
+    <contactos apellidos="Norris" fechaNacimiento="1945-12-03" nombre="Chuck">
         <telefonos>
             <numero>922000001</numero>
         </telefonos>
@@ -8,7 +8,7 @@
             <numero>922000002</numero>
         </telefonos>
     </contactos>
-    <contactos apellidos="Stallone" nombre="Sylvester">
+    <contactos apellidos="Stallone" fechaNacimiento="1951-07-14" nombre="Sylvester">
         <telefonos>
             <numero>666000001</numero>
         </telefonos>
